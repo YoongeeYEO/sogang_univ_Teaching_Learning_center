@@ -1,1 +1,1 @@
-# sogang_univ_Teaching_Learning_center
+# 서강대학교 교수학습센터
